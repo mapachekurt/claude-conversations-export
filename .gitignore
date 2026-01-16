@@ -36,3 +36,7 @@ export_state.json
 export.log
 *.log
 .env
+
+# Data exports
+*.json
+*.zip
